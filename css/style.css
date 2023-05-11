@@ -102,3 +102,7 @@ header nav a:hover {
 .carousel-movies {
     margin-top: 5px;
 }
+
+.item:hover {
+    transform: scale(1.4rem);
+}
